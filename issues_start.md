@@ -8,7 +8,7 @@ Set-up GitHub repository
 - [ ] NAC sponsor will create a new team:
 Select Settings from the repository menu
 Select Collaborators & teams from the left-hand menu
-Configure the new team by adding a team name bat-[BAT_NAME]-team more, an optional description, option parten team, and setting visibility to Visible
+Configure the new team by adding a team name bat-[BAT_NAME]-team, an optional description, optional parent team, and setting visibility to Visible
 Select the green Create Team button
 - [ ] NAC sponsor will add the new team to the repository
 Select Settings from the repository menu
