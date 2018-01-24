@@ -27,6 +27,7 @@ Note: Team members will need to be part of the Code for America organization; Se
 ## Issue #2
 Set-up collaboration and communication infrastructure
 
+- [ ] Set-up Google Drive folder in the shared BAT drive | NAC sponsor will create a new Google Drive Folder using the following naming convention: bat-[BAT_NAME], set sharing permissions to “Anyone who has the link can view” (because we work in the open), and share with members of the BAT*
 - [ ] Set-up Google Group | NAC sponsor will request that Tom Dooner <tdooner@codeforamerica.org> or a designated volunteer specialist will create a Google Group under the CfA infrastructure using the following naming convention: bat-[BAT_NAME]@codeforamerica.org, visibility set to public (because we work in the open), and add NAC sponsor as an admin giving them the ability to add and invite members to the group*
 - [ ] Set-up Shared Google calendar | NAC sponsor will add the kickoff date and any recurring meetings with logistics and information to join meetings to the shared calendar and add members to the meeting invitation*
 Contact Tom Dooner <tdooner@codeforamerica.org> if you need access to the shared Google calendar
