@@ -49,7 +49,6 @@ Add BAT to the main BAT index listing on GitHub wiki pages
  - Shared Google calendar - https://calendar.google.com/calendar/embed?src=codeforamerica.org_e4fugvnjpk4b5fvgjfe916sa6g%40group.calendar.google.com&ctz=America%2FNew_York 
  - GitHub repository - link 
  - Google Drive folder - link
- - Google Drive folder - link
 
 # Step 2: Announce the approved BAT with kickoff meeting date/time and all resources created for the BAT.
 
