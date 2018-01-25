@@ -61,6 +61,6 @@ BAT sponsor shall draft a short blog post highlighting the purpose, scope, leade
 - [ ] NAC sponsor will request that Christopher Whitaker <christopher@codeforamerica.org> post a link to the Medium post in the Announcement Slack channel
 - [ ] NAC sponsor will post a link to the Medium post in the #Brigade Slack channel
 - Announcement should be cross-posted on Brigade Leadership Google Groups 
-- [ ] NAC sponsor will cross post by sending the announcement to briagdeleads@codeforamerica.org 
+- [ ] NAC sponsor will cross post by sending the announcement to brigadeleads@codeforamerica.org
 
 
