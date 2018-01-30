@@ -111,5 +111,20 @@ BAT sponsor shall draft a short blog post highlighting the purpose, scope, leade
 
 - Announcement should be cross-posted on Brigade Leadership Google Groups 
 - [ ] NAC sponsor will cross post by sending the announcement to brigadeleads@codeforamerica.org
+> To: <brigadeleads@codeforamerica.org> 
+> Subject: Announcing a new brigade action team: [BAT_NAME] 
+> 
+> I am happy to announce a new brigade action team, [BAT_NAME], with a purpose to [purpose of the BAT].
+> 
+> You can read more in this Medium post
+> 
+> Medium title post
+> [Medium link]
+> 
+> To inquire or join the BAT, please:
+> [Link to join]
+> <BAT chair email>
+> <BAT secretary email>
+> Thanks
 - [ ] BAT Chair should conduct one-on-one outreach to interested people and stakeholders and collect name, email address, GitHub username, and phone number (optional)
 
